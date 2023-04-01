@@ -3,8 +3,8 @@ This is a simple Bluetooth Flooder program designed for Unihiker DFRobot card. T
 
 ## Getting Started
 ### Prerequisites
-Bleak library for scanning Bluetooth devices using BLE protocol
-Bluez need to be installed in order to be able of using l2ping command
+- Bleak library for scanning Bluetooth devices using BLE protocol
+- Bluez need to be installed in order to be able of using l2ping command
 
 ### Installing
 Clone this repository and install the required libraries using the following command:
